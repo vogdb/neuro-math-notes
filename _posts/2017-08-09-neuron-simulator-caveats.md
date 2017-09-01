@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Neuron Simulator Caveats"
+date:   2017-08-09 17:40:32 +0300
+tags: NeuronSimulator
+---
+
 - The best method to describe sections:
   ```
   sectionname1 {
