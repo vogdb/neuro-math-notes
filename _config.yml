@@ -2,7 +2,7 @@ title: Computational Neurobiology and Mathematics
 description: Just somebody's notes about Computational Neurobiology and Mathematics. The project is open-source, so feel free to contribute.
 baseurl: ""
 url: ""
-github_username:  vogdb
+github_username:  vogdb/vogdb.github.io
 
 markdown: kramdown
 theme: minima
