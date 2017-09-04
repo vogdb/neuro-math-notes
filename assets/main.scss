@@ -6,3 +6,17 @@
 .social-media-list {
   overflow: hidden;
 }
+
+img + em {
+  display: block;
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.half-width {
+  display: inline-block;
+  max-width: 49%;
+}
