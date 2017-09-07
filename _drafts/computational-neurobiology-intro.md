@@ -27,3 +27,6 @@ When we can model neurons and connections between them, we can model a group of 
 
 
 To summarize. We can distinguish three important types of models for neurons: neuron inner workings, neuron as a circuit, network of neurons. And usually, Computational Neurobiology is about them.
+
+
+{% include image.html url="{{ site.url }}/assets/images/auditory-pathway-ru.jpg" class="centered" alt="" caption="Обработка зрительной информации в мозге. Взято из <a href="https://vk.com/club58536348">https://vk.com/club58536348</a>" %}
