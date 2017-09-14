@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?> 
+<?xml-stylesheet href="limits.css" type="text/css"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225.06442pt" height="196.88522pt" viewBox="-20.82414 -24.03815 225.06442 196.88522 "> 
+<g transform="translate(0, 172.84708 ) scale(1,-1) translate(0,24.03815 )"> 
+  <g>
+ <g stroke="rgb(0.0%,0.0%,0.0%)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <g stroke-width="0.4pt">
+ <g>
+ <g>
+ <g>
+ <clipPath id="pgfcp1"> <path d=" M  0.0 -142.26382 L  194.99512 -142.26382 L  194.99512 304.25876 L  0.0 304.25876  "/>
+</clipPath>
+ <g clip-path="url(#pgfcp1)">
+ <g>
+ <g stroke-width="0.2pt">
+ <g stroke="rgb(50.0%,50.0%,50.0%)">
+ <g fill="rgb(50.0%,50.0%,50.0%)">
+ <path d=" M  48.74878 -2.13387 L  48.74878 2.13387 M  97.49756 -2.13387 L  97.49756 2.13387 M  146.24634 -2.13387 L  146.24634 2.13387 M  194.99512 -2.13387 L  194.99512 2.13387  " style="fill:none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <clipPath id="pgfcp2"> <path d=" M  -142.26144 0.0 L  -142.26144 161.99493 L  337.25656 161.99493 L  337.25656 0.0  "/>
+</clipPath>
+ <g clip-path="url(#pgfcp2)">
+ <g>
+ <g stroke-width="0.2pt">
+ <g stroke="rgb(50.0%,50.0%,50.0%)">
+ <g fill="rgb(50.0%,50.0%,50.0%)">
+ <path d=" M  -2.13382 32.39899 L  2.13382 32.39899 M  -2.13382 64.79797 L  2.13382 64.79797 M  -2.13382 97.19696 L  2.13382 97.19696 M  -2.13382 129.59595 L  2.13382 129.59595 M  -2.13382 161.99493 L  2.13382 161.99493  " style="fill:none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <path d=" M  0.0 0.0 L  192.99515 0.0  " style="fill:none"/>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,192.99515,0.0)">
+ <g>
+ <path d=" M  1.99997 0.0 L  -1.19998 1.59998 L  0.0 0.0 L  -1.19998 -1.59998  " style="stroke:none"/>
+ </g>
+  </g>
+ </g>
+ <path d=" M  0.0 0.0 L  0.0 159.99496  " style="fill:none"/>
+ <g>
+ <g transform="matrix(0.0,1.0,-1.0,0.0,0.0,159.99496)">
+ <g>
+ <path d=" M  1.99997 0.0 L  -1.19998 1.59998 L  0.0 0.0 L  -1.19998 -1.59998  " style="stroke:none"/>
+ </g>
+  </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,44.78633,-18.75543)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,93.53511,-18.75543)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,142.28389,-18.75543)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,191.03267,-18.75543)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-15.54143,26.82956)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+1</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-15.54143,59.22855)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+2</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-15.54143,91.62753)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+3</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-15.54143,124.02652)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+4</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,-15.54143,156.4255)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(3.96245,0)" text-anchor="middle"  font-size="17.28"> 
+5</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <clipPath id="pgfcp3"> <path d=" M  0.0 0.0 L  194.99512 0.0 L  194.99512 161.99493 L  0.0 161.99493 Z  "/>
+</clipPath>
+ <g clip-path="url(#pgfcp3)">
+ <g>
+ <g stroke-width="1.6pt">
+ <g stroke="rgb(0.0%,0.0%,100.0%)">
+ <g fill="rgb(0.0%,0.0%,100.0%)">
+ <path d=" M  0.0 129.59595 L  3.9794 121.87755 L  7.95882 114.59094 L  11.93823 107.73613 L  15.91765 101.31311 L  19.89705 95.32188 L  23.87646 89.76244 L  27.85587 84.63478 L  31.83528 79.9389 L  35.8147 75.67484 L  39.79411 71.84254 L  43.77351 68.44205 L  47.75293 65.47333 L  51.73235 62.93642 L  55.71175 60.83125 L  59.69115 59.15796 L  63.67056 57.9164 L  67.64996 57.10661 L  71.62936 56.72862 L  75.60876 56.78246 L  79.58818 57.26804 L  83.56758 58.18542 L  87.54698 59.5346 L  91.5264 61.31558 L  95.5058 63.52832 L  99.4852 66.1728 L  103.4646 69.24916 L  107.44402 72.75726 L  111.42342 76.69719 L  115.40282 81.0689 L  119.38222 85.87228 L  123.36163 91.1076 L  127.34103 96.77457 L  131.32043 102.87344 L  135.29985 109.40416 L  139.27925 116.36647 L  143.25865 123.76076 L  147.23805 131.58662 L  151.21747 139.84445 L  155.19687 148.53406 L  159.17627 157.65508 L  163.15567 167.20857 L  167.13509 177.19333 L  171.11449 187.60999 L  175.09389 198.45872 L  179.07329 209.7387 L  183.0527 221.45108 L  187.0321 233.59474 L  191.0115 246.17032 L  194.99092 259.17795  " style="fill:none"/>
+ <g>
+ <g>
+ <g transform="matrix(0.55432,-0.8346,0.8346,0.55432,28.06433,100.12468)">
+ <g fill="rgb(0.0%,0.0%,100.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(5.09245,0)" text-anchor="middle"  font-size="17.28"> 
+<tspan font-family="cmmi" font-size="12">f</tspan></text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g stroke-width="0.8pt">
+ <g stroke="rgb(0.0%,50.0%,50.0%)">
+ <g fill="rgb(0.0%,50.0%,50.0%)">
+ <path d=" M  0.0 32.39899 L  194.99512 161.99493  " style="fill:none"/>
+ <g>
+ <g>
+ <g transform="matrix(0.83461,0.55467,-0.55467,0.83461,18.67317,56.84811)">
+ <g fill="rgb(0.0%,50.0%,50.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(76.10254,0)" text-anchor="middle"  font-size="17.28"> 
+Secant, <tspan font-family="cmmi" font-size="12">k </tspan>= <tspan font-family="cmmi" font-size="12">rise&#x2215;run</tspan></text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g stroke-dasharray="0.8pt,2.0pt" stroke-dashoffset="0.0pt">
+ <g stroke-width="0.8pt">
+ <g stroke="rgb(100.0%,0.0%,100.0%)">
+ <g fill="rgb(100.0%,0.0%,100.0%)">
+ <path d=" M  48.74878 64.79797 L  48.74878 0.0  " style="fill:none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g stroke-dasharray="0.8pt,2.0pt" stroke-dashoffset="0.0pt">
+ <g stroke-width="0.8pt">
+ <g stroke="rgb(100.0%,0.0%,100.0%)">
+ <g fill="rgb(100.0%,0.0%,100.0%)">
+ <path d=" M  146.24634 129.59595 L  146.24634 0.0  " style="fill:none"/>
+ <g>
+ <g>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,151.92905,106.26434)">
+ <g fill="rgb(100.0%,0.0%,100.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(14.65193,0)" text-anchor="middle"  font-size="17.28"> 
+Rise</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g stroke-dasharray="0.8pt,2.0pt" stroke-dashoffset="0.0pt">
+ <g stroke-width="0.8pt">
+ <g stroke="rgb(100.0%,0.0%,100.0%)">
+ <g fill="rgb(100.0%,0.0%,100.0%)">
+ <path d=" M  48.74878 64.79797 L  146.24634 64.79797  " style="fill:none"/>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,86.77563,47.30972)">
+ <g fill="rgb(100.0%,0.0%,100.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(14.7068,0)" text-anchor="middle"  font-size="17.28"> 
+Run</text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,179.94098,5.48271)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(4.80745,0)" text-anchor="middle"  font-size="17.28"> 
+<tspan font-family="cmmi" font-size="12">x</tspan></text> 
+</g>
+ </g>
+ </g>
+ </g>
+ <g>
+ <g>
+ <g transform="matrix(1.0,0.0,0.0,1.0,5.48271,149.09528)">
+ <g fill="rgb(0.0%,0.0%,0.0%)">
+ <text style="stroke:none" transform="scale(1,-1) translate(4.43495,0)" text-anchor="middle"  font-size="17.28"> 
+<tspan font-family="cmmi" font-size="12">y</tspan></text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ 
+                                  </g> 
+</svg> 
