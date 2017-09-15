@@ -7,7 +7,7 @@
   overflow: hidden;
 }
 
-img + em {
+img + em, .centered a + em {
   display: block;
   text-align: center;
 }

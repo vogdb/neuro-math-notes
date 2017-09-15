@@ -20,5 +20,5 @@ The Average rate of change gives the interval's rate. The rate of change in a po
 As you can see we get the derivative when we start calculating the Average rate of change on less and less intervals. Mathematically it means the limit of average rates of \\(f\\) in point \\(a\\). Graphically it is the slope of the tangent line in \\(a\\). The Tangent line is a line (linear function) that approximates function in the point. For a linear function the tangent is the function itself.
 
 {: .centered}
-![Derivative]({{ site.url }}/assets/images/derivative/derivative.svg){:height="300"}
-*Derivative*
+[![Derivative](https://img.youtube.com/vi/Gbtma_UQpro/0.jpg)](https://www.youtube.com/watch?v=Gbtma_UQpro)
+*How to build Derivative function*
