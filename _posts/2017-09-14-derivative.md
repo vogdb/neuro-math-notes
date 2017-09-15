@@ -17,7 +17,7 @@ It means that function's value has been increasing at a rate \\(6\\) units of \\
 
 The Average rate of change gives the interval's rate. The rate of change in a point is called **the instantaneous rate of change** and it is the **Derivative** of function in that point. The **Derivative** of function \\(f\\) of argument \\(x\\) in point \\(a\\) is the instantaneous rate of change of this function in \\(a\\). It is denoted as "\\(f\\) prime of \\(a\\)":
 \\[f\'(a) = Slope_{tangent} = \lim_{x \to a} \frac{f(x) - f(a)}{x - a} = \lim_{\Delta x \to 0} \frac{f(a + \Delta x) - f(a)}{\Delta x} \\]
-As you can see we get the derivative when we start calculating the Average rate of change on less and less intervals. Mathematically it means the limit of average rates of \\(f\\) in point \\(a\\). Graphically it is the slope of the tangent line in \\(a\\).
+As you can see we get the derivative when we start calculating the Average rate of change on less and less intervals. Mathematically it means the limit of average rates of \\(f\\) in point \\(a\\). Graphically it is the slope of the tangent line in \\(a\\). The Tangent line is a line (linear function) that approximates function in the point. For a linear function the tangent is the function itself.
 
 {: .centered}
 ![Derivative]({{ site.url }}/assets/images/derivative/derivative.svg){:height="300"}
