@@ -21,10 +21,15 @@ It means that function's value has been increasing at a rate \\(6\\) units of \\
 
 The Average rate of change gives the interval's rate. The rate of change in a point is called **the instantaneous rate of change** and it is the **Derivative** of function in that point. The **Derivative** of function \\(f\\) of argument \\(x\\) in point \\(a\\) is the instantaneous rate of change of this function in \\(a\\). It is denoted as "\\(f\\) prime of \\(a\\)":
 \\[f\'(a) = Slope_{tangent} = \lim_{x \to a} \frac{f(a) - f(x)}{a - x} = \lim_{\Delta x \to 0} \frac{f(a + \Delta x) - f(a)}{\Delta x} \\]
-As you can see we get the derivative when we start calculating the Average rate of change on less and less intervals. Mathematically it means the limit of average rates of \\(f\\) in point \\(a\\). Graphically it is the slope of the tangent line in \\(a\\). The Tangent line is a line (linear function) that approximates function in the point. For a linear function the tangent is the function itself.
+As you can see we get the derivative when we start calculating the Average rate of change on less and less intervals. Mathematically it means the **limit of average rates** of \\(f\\) in point \\(a\\). Physically it is the **velocity** of \\(f\\). Graphically it is the **slope of the tangent** line in \\(a\\). The Tangent line is a line (linear function) that approximates function in the point. For a linear function the tangent is the function itself.
 
 {: .centered}
 ![Derivative]({{ site.url }}/assets/images/derivative/derivative.svg){:height="300"}
+
+### Notations
+\\[f\'(x) \text{ - Newton notation} \\]
+\\[\frac{df}{dx} = \frac{d}{dx}f \text{ - Leibniz notation} \\]
+\\(d\\) stands for the limit of \\(\Delta\\). Leibniz at a point is \\(\frac{df}{dx}|\_{x=a}\\). Newton at a point is \\(f\'(a)\\).
 
 ### Derivative graphs
 
@@ -49,5 +54,24 @@ As you can see we get the derivative when we start calculating the Average rate 
 **Linear combinations**
 \\[f\'(x) = g\'(x) + h\'(x), f(x) = g(x) + h(x) \\]
 \\[f\'(x) = Kg\'(x), f(x) = Kg(x) \\]
-**General power rule** If \\(n\\) is any fixed number and \\(f(x) = x^n\\). Easy to prove by definition. Some factorization is required.
+**General power rule** If \\(n\\) is any fixed number and \\(f(x) = x^n\\). (Prove by definition. Some factorization is required.)
 \\[f\'(x) = nx^{n-1}\\]
+
+### Second Derivative
+
+\\[f\'\'(x) = f^{(2)}(x) = \frac{d}{dx}(\frac{d}{dx}f) = (\frac{d}{dx})^2(f) = \frac{d^2f}{dx^2} \\]
+
+Physically it is the **acceleration** of \\(f\\). Graphically it determines the concavity of function.
+
+<p class="centered">
+  <span class="half-width" style="vertical-align: top">
+    <img src="{{ site.url }}/assets/images/derivative/concave-down.svg" alt="concave down">
+    <em>\(f''<0\), concave down</em>
+  </span>
+  <span class="half-width">
+    <img src="{{ site.url }}/assets/images/derivative/concave-up.svg" alt="concave up">
+    <em>\(f''>0\), concave up</em>
+  </span>
+</p>
+
+**Inflection points** are points where the graph of a function changes "concave up" <=> "concave down".
