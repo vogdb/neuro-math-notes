@@ -5,7 +5,7 @@ date:   2017-09-14 21:23:00 +0300
 tags: Math Derivative
 ---
 
-**Prerequisites** [Limits]({{ site.baseurl }}{% post_url 2017-09-02-limits %}), [Matt glossary]({{ site.baseurl }}{% post_url 2017-09-18-math-glossary %})
+**Prerequisites** [Limits]({{ site.baseurl }}{% post_url 2017-09-02-limits %})
 
 ### Rate of change of function.
 
