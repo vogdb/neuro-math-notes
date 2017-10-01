@@ -75,3 +75,30 @@ Physically it is the **acceleration** of \\(f\\). Graphically it determines the 
 </p>
 
 **Inflection points** are points where the graph of a function changes "concave up" <=> "concave down".
+
+### Derivative combinations
+
+**Product/Quotient**. If \\(h=g \cdot f\\) then by definition
+\\[\frac{\Delta h}{\Delta t} = \frac{(g + \Delta g)(f + \Delta f) - gf}{\Delta t} = \frac{f\Delta g + g\Delta f + \Delta g \Delta f}{\Delta t} = fg\' + gf\', \Delta t \to 0\\]
+The same applies for the quotient \\(h=\frac{g}{f}\\)
+
+{: .centered}
+![product-area]({{ site.url }}/assets/images/derivative/product-area.svg){:height="300"}
+*Product area \\(h=g \cdot f\\)*
+
+**Composition**
+
+{: .left-inline}
+![Derivative composition]({{ site.url }}/assets/images/derivative/derivative-composition.png)
+*Derivative composition*
+
+{: .after-left-inline}
+When \\(h(x) = f(g(x)) \implies h\'(x)=f\'(u)g\'(x)\\)
+\\[f\'=\frac{\Delta y}{\Delta u}, g\'=\frac{\Delta u}{\Delta x}, h\'=\frac{\Delta y}{\Delta x}\\]
+Just make replacements at the above it is our prove. The same can be done through the limit definition.
+
+**Implicit functions**
+\\[x^2 + y^2 = 25 \implies 2x + 2y\frac{dy}{dx} = 0 \implies \frac{dy}{dx}=-\frac{x}{y}\\]
+
+**Inverse functions**
+\\[y=f(x), x=g(y), x=g(f(x)) \implies x\'=g\'(f(x))\cdot f\'(x) \implies \frac{1}{f\'(x)}=g\'(f(x))\\]

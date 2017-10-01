@@ -16,6 +16,17 @@ img + em, .centered a + em {
   text-align: center;
 }
 
+.left-inline {
+  display: inline-block;
+  max-width: 49%
+}
+
+.after-left-inline {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 49%;
+}
+
 .half-width {
   display: inline-block;
   max-width: 49%;
