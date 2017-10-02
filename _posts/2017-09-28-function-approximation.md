@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Derivative Approximation"
+title:  "Function Approximation"
 date:   2017-09-28 20:10:00 +0300
 tags: Math Derivative
 ---
