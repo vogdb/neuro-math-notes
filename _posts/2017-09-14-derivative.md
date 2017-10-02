@@ -54,7 +54,7 @@ As you can see we get the derivative when we start calculating the Average rate 
 **Linear combinations**
 \\[f\'(x) = g\'(x) + h\'(x), f(x) = g(x) + h(x) \\]
 \\[f\'(x) = Kg\'(x), f(x) = Kg(x) \\]
-**General power rule** If \\(n\\) is any fixed number and \\(f(x) = x^n\\). (Prove by definition. Some factorization is required.)
+**General power rule** If \\(n\\) is any fixed number and \\(f(x) = x^n\\). (For integer \\(n\\) we can prove by definition. Some factorization is required. For any number \\(n\\) we would need logarithmic differentiation)
 \\[f\'(x) = nx^{n-1}\\]
 
 ### Second Derivative
@@ -102,3 +102,13 @@ Just make replacements at the above it is our prove. The same can be done throug
 
 **Inverse functions**
 \\[y=f(x), x=g(y), x=g(f(x)) \implies x\'=g\'(f(x))\cdot f\'(x) \implies \frac{1}{f\'(x)}=g\'(f(x))\\]
+
+**Exponent functions**
+\\[y=a^x, y\'(x)=\lim_{\Delta x \to 0} \frac{a^{x+\Delta x} - a^x}{\Delta x}=a^x\lim_{\Delta x \to 0} \frac{a^{\Delta x} - 1}{\Delta x}=a^xM(a)\\]
+\\(M(a)\\) is the slope of the tangent line to \\(a^x\\) at \\(0\\). See below.
+\\[M(a)=\lim_{\Delta x \to 0} \frac{a^{\Delta x} - 1}{\Delta x}=\lim_{\Delta x \to 0} \frac{a^{0 + \Delta x} - a^0}{\Delta x}\\]
+The \\(a\\) at which \\(M(a) = 1\\) is known as constant \\(e\\) or *Euler's number*. \\[\frac{de^x}{dx} = M(e)e^x = 1 \cdot e^x = e^x\\]
+
+{: .centered}
+![Euler's number graphically]({{ site.url }}/assets/images/derivative/exp-derivative.svg){:height="300"}
+*Euler's number graphically*
