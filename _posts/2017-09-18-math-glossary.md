@@ -7,8 +7,11 @@ tags: Math
 
 ### General
 
-<!-- TODO Units, conversation of Units. Significant numbers, Системы счисления. Четные/нечетные/натуральные/действительные, greek numbers.
+<!-- TODO Units, conversation of Units. Significant numbers, Системы счисления. Четные/нечетные/натуральные/действительные(rational, irrational), greek numbers.
 -->
+**0**. Zero, oh, naught.
+
+**Order of magnitude**. The order of magnitude \\(b\\) of a number \\(N\\) is the smallest power of \\(10\\) required to represent that number. \\(N=a \cdot 10^b, 0.5 < a \leq 5\\). Example: \\(N=1324=1.324 \cdot 10^3, b=3\\), \\(N=0.001324=1.324 \cdot 10^{-3}, b=-3\\)
 
 **Multiplication**. \\(a \cdot b\\). Multiplication or product of \\(a\\) and \\(b\\). \\(a\\) times \\(b\\). \\(a,b\\) are factors.
 
@@ -33,6 +36,8 @@ tags: Math
 **Open interval**. \\((a,b) \text{ or } ]a, b[\implies a < x < b\\)
 
 **Half-open/closed interval**. \\([a,b)\\) or \\((a,b]\\)
+
+**Number \\(e\\)** .Euler's number. Constant. Defined as \\(\lim_{n \to \infty} (1 + \frac{1}{n})^n\\). See Exponent functions of [Derivative]({{ site.baseurl }}{% post_url 2017-09-14-derivative %}).
 
 ### Functions
 **Definition**. \\(y=f(x)\\). \\(f\\) of \\(x\\). \\(x\\) is input. \\(y\\) is output. \\(f\\) is the function. \\(f\\) can only have one output, \\(y\\), for each unique input, \\(x\\).

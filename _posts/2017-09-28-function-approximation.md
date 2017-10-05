@@ -49,7 +49,7 @@ Example.
 We could've done the replacement cause \\(x \to 0 \iff x^2 \to 0\\). Lets find the approximation at \\(x=7\\)
 \\[(1+x^2)^{-1} = (1 + (u+7)^2)^{-1} = (50+14u+u^2)^{-1} = (50 + v^2)^{-1} \approx \text{...} \\]
 
-**Another reason why approximations near 0 are sufficient**
+**Another reason why approximations near 0 are important**
 Suppose that you measure the velocity of an object by measuring that it takes \\(1\\) second to travel \\(1.2\\) meters. The measurement error is \\(.001\\) meters in distance, and the error in time is \\(.01\\) second. What is the absolute value of the error in the linear approximation for the velocity?
 \\[v = \frac{x}{t} \implies v + \Delta v = \frac{x+\Delta x}{t + \Delta t} = (x+\Delta x)(t+\Delta t)^{-1}\\]
 \\[=(x+\Delta x)\frac{1}{t}(1+\frac{\Delta t}{t})^{-1}\\]
@@ -58,3 +58,25 @@ Now we use \\( (1 + x)^r \approx 1 + rx\\) for \\(x = \Delta t\\) cause \\(\Delt
 \\(\Delta x \Delta t\\) can be neglected as it's quadratic.
 \\[v + \Delta v \approx v+\frac{x}{t}-\frac{x\Delta t}{t^2}\\]
 \\[\Delta v \approx \frac{x}{t}-\frac{x\Delta t}{t^2}\\]
+
+### Quadratic approximation
+
+When function is approximated by a quadratic function it is a **quadratic approximation** of a function. Graphically it is the best fit parabola to \\(f\\). Mathematically it is \\(f(a)=g(a), f\'(a)=g\'(a), f\'\'(a)=g\'\'(a)\\) where \\(g\\) is the approximation function.
+\\[x \approx a \implies f(x) \approx f(a) + f\'(a)(x-a) + \frac{f\'\'(a)}{2}(x-a)^2\\]
+\\[x \approx 0 \implies f(x) \approx f(0) + f\'(0)(x) + \frac{f\'\'(0)}{2}(x)^2\\]
+
+The polynomial approximation as a consequence:
+\\[x \approx a \implies f(x) \approx \Sigma_{n=0}^{\infty}\frac{f^{(n)}(a)(x-a)^n}{n!} \\]
+\\[x \approx 0 \implies f(x) \approx \Sigma_{n=0}^{\infty}\frac{f^{(n)}(0)x^n}{n!}\\]
+
+### Error approximation notation
+\\[f(x) = O(g(x)), x \to \infty \iff \exists x_0 \land M > 0, \forall x>x_0 \implies f(x) \leq M|g(x)|\\]
+\\[f(x) = O(g(x)), x \to a \iff \exists M > 0 \land \delta > 0, \forall 0<|x-a|<\delta \implies f(x) \leq M|g(x)|\\]
+**Example**
+\\[(1 + x)^5 \approx 1 + 5x, x \to 0 \text{, linear approximation} \\]
+\\[(1 + x)^5 = 1 + 5x + \text{approximation error}, x \to 0 \\]
+\\[(1 + x)^5 = 1 + 5x + 10x^2 + 10x^3 + 5x^4 + x^5\\]
+\\[\text{approximation error} = 10x^2 + 10x^3 + 5x^4 + x^5\\]
+\\[x \to 0 \implies 10x^2 \to 0, 10x^3 \to 0, 5x^4 \to 0, x^5 \to 0 \\]
+\\[10x^2 + 10x^3 + 5x^4 + x^5 \leq 10x^2 + x^2 + x^2 + x^2 = 13x^2 = O(x^2)\\]
+\\[\text{approximation error} = 13x^2 = O(x^2)\\]
