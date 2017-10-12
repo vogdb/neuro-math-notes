@@ -45,6 +45,10 @@ As you can see we get the derivative when we start calculating the Average rate 
 </p>
 
 {: .centered}
+[![Derivative graphically](https://img.youtube.com/vi/9vKqVkMQHKk/0.jpg)](https://www.youtube.com/watch?v=9vKqVkMQHKk)
+*Derivative graphically*
+
+{: .centered}
 [![graph Derivative function](https://img.youtube.com/vi/Gbtma_UQpro/0.jpg)](https://www.youtube.com/watch?v=Gbtma_UQpro)
 *How to graph Derivative function*
 
@@ -56,6 +60,10 @@ As you can see we get the derivative when we start calculating the Average rate 
 \\[f\'(x) = Kg\'(x), f(x) = Kg(x) \\]
 **General power rule** If \\(n\\) is any fixed number and \\(f(x) = x^n\\). (For integer \\(n\\) we can prove by definition. Some factorization is required. For any number \\(n\\) we would need logarithmic differentiation)
 \\[f\'(x) = nx^{n-1}\\]
+
+{: .centered}
+[![Derivative geometrically](https://img.youtube.com/vi/S0_qX4VJhMQ/0.jpg)](https://www.youtube.com/watch?v=S0_qX4VJhMQ)
+*Derivative geometrically*
 
 ### Second Derivative
 
@@ -97,8 +105,16 @@ When \\(h(x) = f(g(x)) \implies h\'(x)=f\'(u)g\'(x)\\)
 \\[f\'=\frac{\Delta y}{\Delta u}, g\'=\frac{\Delta u}{\Delta x}, h\'=\frac{\Delta y}{\Delta x}\\]
 Just make replacements at the above it is our prove. The same can be done through the limit definition.
 
+{: .centered}
+[![Chain rule and composition](https://img.youtube.com/vi/YG15m2VwSjA/0.jpg)](https://www.youtube.com/watch?v=YG15m2VwSjA)
+*Chain rule and composition*
+
 **Implicit functions**
 \\[x^2 + y^2 = 25 \implies 2x + 2y\frac{dy}{dx} = 0 \implies \frac{dy}{dx}=-\frac{x}{y}\\]
+
+{: .centered}
+[![Implicit differentiation](https://img.youtube.com/vi/qb40J4N1fa4/0.jpg)](https://www.youtube.com/watch?v=qb40J4N1fa4)
+*Implicit differentiation*
 
 **Inverse functions**
 \\[y=f(x), x=g(y), x=g(f(x)) \implies x\'=g\'(f(x))\cdot f\'(x) \implies \frac{1}{f\'(x)}=g\'(f(x))\\]
@@ -112,3 +128,7 @@ The \\(a\\) at which \\(M(a) = 1\\) is known as constant \\(e\\) or *Euler's num
 {: .centered}
 ![Euler's number graphically]({{ site.url }}/assets/images/derivative/exp-derivative.svg){:height="300"}
 *Euler's number graphically*
+
+{: .centered}
+[![Exponential derivatives](https://img.youtube.com/vi/m2MIpDrF7Es/0.jpg)](https://www.youtube.com/watch?v=m2MIpDrF7Es)
+*Exponential derivatives*
