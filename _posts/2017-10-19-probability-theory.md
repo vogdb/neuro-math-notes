@@ -9,7 +9,13 @@ tags: Math
 
 **Experiment.** Something that happens with an outcome. For example. An experiment is when we flip a coin once. An outcome then is either Heads(*H*) or Tails(*T*). Another experiment would be to flip the coin twice. An outcome then is a sequence of Heads and Tails. The result of one coin flip is not an outcome in such experiment. It is just a stage or intermediate result.
 
-**Sample set.** Set of all possible outcomes. The experiment with one flip of a coin has a set *{H, T}*. Two flips is *{HH, TT, HT, TH}*.
+**Sample set.** Set of all possible outcomes. The experiment with one flip of a coin has a set *{H, T}*. Two flips is *{HH, TT, HT, TH}*. It must be: *mutually exclusive*, *collectively exhaustive*.
+
+**Event.** A subset of the sample set.
+
+**Cardinality of Set.** Size of Set.
+
+\\(\binom{n}{k}\\) Over \\(n\\) choose \\(k\\).
 
 **Venn diagram.**
 
@@ -32,3 +38,7 @@ Intersection of elements is counted twice. Thus we need to extract it.
 
 **Combinations.** Set of elements where order does not matter, e.g. sets. *abc* = *acb* = *cba*. When we have \\(k\\) elements, we can draw \\(k!\\) permutations from them. But as a combination it represents a single combination for \\(k!\\) of permutations. So in order to get the number of combinations we can divide the number of permutations by \\(k!\\).
 \\[ \_{n}C_{k} = \frac{n!}{k!(n-k)!} \\]
+
+**Conditional probability.** Probability of \\(A\\) given \\(B\\) occurred.
+
+\\[ P(A \cap B) = P(B)P(A\|B) \implies P(A\|B) = \frac{P(A \cap B)}{P{B}}\\]
